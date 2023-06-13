@@ -30,7 +30,6 @@ export const config = {
 
     specs: [
         './test/specs/**/*.js'
-        // './test/specs/functionalScenarios.js'
         // './test/specs/firstTest.js'
         // './test/specs/uiControls.js'
         // './test/specs/eCommerceE2E.js'
